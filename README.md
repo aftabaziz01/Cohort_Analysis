@@ -128,5 +128,4 @@ Cohort Analysis is a data analysis technique used to gain insights into the beha
 ---
 
 ## Author
-Sourabh Sonker <br>
-Data Scientist
+Aftab Aziz <br>
